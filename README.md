@@ -62,11 +62,11 @@ Si ya lo has ejecutado, puedes volver a ejecutarlo seleccionando la opcion de re
 
 1. Accede a [Google Cloud Console](https://console.cloud.google.com/)
 2. Click en la parte superior
-![](./screenshots/Screenshot_1.png)
+![](./screenshots/Screenshot_01.png)
 3. Click en NEW PROJECT
-![](./screenshots/Screenshot_2.png)
+![](./screenshots/Screenshot_02.png)
 4. Rellena el formulario y haz click en CREATE
-![](./screenshots/Screenshot_3.png)
+![](./screenshots/Screenshot_03.png)
 
 </details>
 
@@ -114,19 +114,19 @@ Suponiendo que estamos usando [la cuenta que tenemos que usar](#user-checking), 
 1. Accede a [Google Cloud Console](https://console.cloud.google.com/)
 
 2. En el menú de la izquierda, en APIs & Services, haz click en 'Dashboard'
-![](./screenshots/Screenshot_4.png)
+![](./screenshots/Screenshot_04.png)
 
 3. Click en el botón '+ ENABLE APIS AND SERVICES'
-![](./screenshots/Screenshot_5.png)
+![](./screenshots/Screenshot_05.png)
 
 4. En el buscador introduce 'Dialogflow'
-![](./screenshots/Screenshot_6.png)
+![](./screenshots/Screenshot_06.png)
 
 5. Selecciona 'Dialogflow API'
-![](./screenshots/Screenshot_7.png)
+![](./screenshots/Screenshot_07.png)
 
 6. Asegurándote de que está seleccionado el proyecto correcto, haz click en 'ENABLE'.
-![](./screenshots/Screenshot_8.png)
+![](./screenshots/Screenshot_08.png)
 
 </details>
 
@@ -204,7 +204,7 @@ Solo es necesario si se va a usar la API y se puede hacer desde una terminal o d
 
 1. Accede a [Google Cloud Console](https://console.cloud.google.com/)
 2. Menú izquierdo --> APIs & Services --> Credentials
-![](./screenshots/Screenshot_9.png)
+![](./screenshots/Screenshot_09.png)
 3. CREATE CREDENTIALS --> Service account
 ![](./screenshots/Screenshot_10.png)
 4. Rellena el formulario y haz click en CREATE

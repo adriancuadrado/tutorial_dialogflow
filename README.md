@@ -3,7 +3,7 @@
 ## Preparación
 
 ### 1. Descargar e instalar Google Cloud SDK
-Este paso solo es necesario si piensas usar la API de Dialogflow para desarrollar agentes. Si sólo te vas a limitar a usar Dialogflow desde [su consola](https://console.dialogflow.com/api-client/#/login), puedes saltarte ese paso.
+Este paso solo es necesario si piensas usar la API de Dialogflow para desarrollar agentes. Si sólo te vas a limitar a usar Dialogflow desde [su consola](https://console.dialogflow.com/api-client/#/login), puedes saltarte este paso.
 
 _**Windows:**_ https://dl.google.com/dl/cloudsdk/channels/rapid/GoogleCloudSDKInstaller.exe
 
